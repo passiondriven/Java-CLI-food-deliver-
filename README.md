@@ -1,9 +1,9 @@
-## Module 1 Capstone - Taste Elevator CaTEring Corp
+%% Food deliver (Taste Elevator CaTEring Corp)
 
 You've been asked to develop an application for a catering(food) distributor,
 Taste Elevator CaTEring Corp. Customers purchased food items from the catering machine and are charged accordingly.
 
-### Application Requirements
+%%% Application Requirements
 
 1. The CaTEring machine dispenses munchies, sandwiches, drinks, and desserts.
    - Each item has a Name and a Price.
@@ -80,7 +80,7 @@ Taste Elevator CaTEring Corp. Customers purchased food items from the catering m
     - An example of the output format is provided below.
 11. Provide unit tests demonstrating that your code works correctly.
 ___
-### CaTEring Data File
+%%% CaTEring Data File
 The input file that stocks the items is a comma separated values file (csv). Each line is a separate item in the file and follows the below format:
 
  Column Name   | Description 
@@ -102,7 +102,7 @@ D1,CHOCOLATE BAR,3.75,Dessert
 An input file has been provided for testing with your repository: `catering.csv`.
 
 ---
-### Sales Report
+%%% Sales Report
 The output sales report file is a comma separated values (csv) file. Each line is a separate item with the number of sales for the applicable item. At the end of the report is a blank line followed by the **TOTAL SALES** dollar amount indicating the gross sales from the caTEring machine.
 
 **Example Output**
